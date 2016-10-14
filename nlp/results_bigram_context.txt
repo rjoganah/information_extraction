@@ -1,0 +1,117 @@
+(0, 1, 0.11945462064187412)
+polyurethane_foam
+peat_granule
+
+(0, 3, 0.18131936556464984)
+polyurethane_foam
+elimination_capacity
+
+(0, 4, 0.15186038765067039)
+polyurethane_foam
+removal_efficiency
+
+(0, 5, 0.13719218296340988)
+polyurethane_foam
+wood_chip
+
+(0, 6, 0.10136060675992288)
+polyurethane_foam
+glass_sphere
+
+(0, 7, 0.2200168838878751)
+polyurethane_foam
+pressure_drop
+
+(0, 8, 0.1767313143506348)
+polyurethane_foam
+biotrickling_filter
+
+(0, 9, 0.20129022235908478)
+polyurethane_foam
+packing_material
+
+(1, 3, 0.16940773179473459)
+peat_granule
+
+elimination_capacity
+
+(1, 4, 0.10905596674870727)
+peat_granule
+removal_efficiency
+
+(1, 5, 0.11043152607484653)
+peat_granule
+wood_chip
+
+(1, 6, 0.17677669529663687)
+peat_granule
+glass_sphere
+
+(1, 7, 0.13590001437060434)
+peat_granule
+pressure_drop
+
+(2, 3, 0.12233554836823932)
+long_term
+elimination_capacity
+
+(3, 4, 0.33501195457585975)
+elimination_capacity
+removal_efficiency
+
+(3, 5, 0.12970848350006453)
+elimination_capacity
+wood_chip
+
+(3, 6, 0.11712737024998898)
+elimination_capacity
+glass_sphere
+
+(3, 7, 0.32646826540545748)
+elimination_capacity
+pressure_drop
+
+(3, 8, 0.16217635880767706)
+elimination_capacity
+biotrickling_filter
+
+(3, 9, 0.25155924498200033)
+elimination_capacity
+packing_material
+
+(4, 7, 0.32082472594074141)
+removal_efficiency
+pressure_drop
+
+(4, 8, 0.14914397358866305)
+removal_efficiency
+biotrickling_filter
+
+(4, 9, 0.26101650670470705)
+removal_efficiency
+packing_material
+
+(5, 7, 0.17656054094752252)
+wood_chip
+pressure_drop
+
+(5, 9, 0.12298761851344518)
+wood_chip
+packing_material
+
+(6, 9, 0.12554427552294845)
+glass_sphere
+packing_material
+
+(7, 8, 0.19480057978602719)
+pressure_drop
+biotrickling_filter
+
+(7, 9, 0.34373521679582619)
+pressure_drop
+packing_material
+
+(8, 9, 0.19490090325940251)
+biotrickling_filter
+packing_material
+

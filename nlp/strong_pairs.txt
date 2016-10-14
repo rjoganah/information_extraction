@@ -1,0 +1,16 @@
+(5, 8, 0.34373521679582619)
+packing_material
+pressure_drop
+
+(0, 1, 0.33501195457585975)
+elimination_capacity
+removal_efficiency
+
+(3, 9, 0.17677669529663687)
+glass_sphere
+peat_granule
+
+(4, 7, 0.1767313143506348)
+biotrickling_filter
+polyurethane_foam
+

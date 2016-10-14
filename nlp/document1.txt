@@ -1,0 +1,599 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NUTRIENT RECOVERY 
+STATE OF THE KNOWLEDGE 
+
+                                     As of December 2010
+
+
+
+2 Nutrient Recovery: State of the Knowledge - September 2011 
+
+ 
+
+ 
+
+Nutrient Recovery Research Challenge: State of the Knowledge 
+
+1.0  Challenge Statement 
+ 
+
+Extracting resources from wastewater is not new.Producing fit-for-purpose water; 
+making beneficial use of biosolids, and generating energy from digester gas is now 
+commonplace in the wastewater treatment industry.Recently, however, a new category of 
+processes have emerged that extract specific chemical compounds, with market value, from 
+wastewater treatment streams.These processes include those already commercially available 
+such as struvite harvesting to produce high quality slow-release fertilizer, and those that are not 
+yet commercially available such as biologically-deriving polyhydroxyalkanoates (PHA) from 
+biological nutrient removal activated sludges to produce thermoplastics, and using digester gas to 
+produce methanol or ammonia.There is a need to document these benefits, the current 
+technologies and processes, and to further investigate the potential value of these and other 
+processes used to derive useful materials from wastewater so that WERF subscribers can make 
+informed decisions as to whether these processes could be considered reasonable investments to 
+their agency or company.To date, WERF has not directly funded research in this emerging area 
+of importance to its subscribers, so subscribers are left with the task of researching each process 
+on their own to determine if a given process fits well with their agency or company.Recognizing that wastewater is a "re-n-e-w-able" resource, this challenge will begin with 
+the recovery of nutrients.It will provide needed research to identify the full range of nutrient 
+extracting processes and how this resource can be commoditized.It will identify areas where 
+new processes might still be developed; evaluate each of these processes for current and future 
+potential; identify paths and barriers for process implementation;, and develop a tool allowing 
+subscribers easy access to the information collected and created by this effort so that they can 
+readily decide whether the process of interest has a net value to their agency or company, or not.Process analyses will not only include potential net revenues to subscribers, but also: potential 
+cost savings, current and future process sustainability (not only the new process evaluated but 
+also sustainability of current processes such as biosolids reuse), creation or use of "green" 
+attributes, and other concerns important to WERF subscribers.While new processes might not be 
+feasible for many utilities, implementing demonstrated technologies allows our water industry to 
+become more sustainable.Demonstration of benefits of existing technologies to improve their 
+implementation industry-wide is therefore an important component of this challenge.2.0   Background and Rationale / History of the Challenge 
+
+Subscribers identified the recovery of useful products from wastewater and solids as one 
+of their top outcomes in the WERF Virtual Research Forum - Futures Session (2009) (and in the 
+subsequent 2010 Subscriber Survey).The recovery of useful products from a wastewater treatment facility is a challenge 
+focused on both the understanding of current resource markets and technologies and also 
+identifying the future commodities and value added products that will drive future directions in 
+
+
+
+3 Nutrient Recovery: State of the Knowledge - September 2011 
+
+ 
+
+ 
+
+the industry.The key components to advancing resource recovery from wastewater are the need 
+to identify the key resources that can be recovered, identify the markets for those resources, and 
+document the effectiveness of current technologies or develop new technologies for their 
+recovery.Evaluation of current resource recovery options (e.g., biosolids use, nutrient recovery), 
+as well as identifying the next generation resources (e.g.biopolymers, trace metals, chemicals, 
+nutrients (beyond phosphorus and nitrogen)) that are cost effectively recoverable, are both large 
+needs in the wastewater treatment industry.A difficult challenge is not only identifying resources, but also assessing the practicality 
+of recovering resources from wastewater.One measure of practicality is to assess the monetary 
+value (or revenue generation potential) of resource components in wastewater that is received 
+and treated by municipal utilities on a typical daily basis.Potential resources have a wide range 
+of internal revenue generation potential.Table 1 shows a brief sampling of potential revenue 
+generation for a 10 MGD treatment facility, with the resources bound in solids, liquids or both 
+(more details on potential revenue from a range of metals and nutrients can be found in 
+Appendix A).Prices of these commodities can be volatile, some markets are quite limited, and 
+the costs to extract these resource components from wastewater (including scale-up and 
+marketing) is likely to be much higher than costs of mining and processing from current sources.In the case of nutrients, the availability of readily minable phosphorus rock and the volatility of 
+the natural gas market will drive the overall costs of nitrogen and phosphorus.Resource recovery 
+is not likely to be a major revenue stream for WWTFs, but rather it may help offset treatment 
+costs to meet current and future environmental goals.For example, the revenue generated from 
+struvite recovery may help off-set the cost of meeting nutrient discharge regulations which are 
+being implemented around the world.Identifying the full value of useful products produced from 
+wastewater, and how these products fit into a systems level approach for resource management 
+will be critical in the advancement of technologies to recover these resources.It may also be 
+necessary to focus on separate or new streams for recovery of useful products from wastewater 
+(i.e., source separation, industrial wastes, liquids treatment, solids treatment, etc.).Table 1.Example Revenue Generation Potential for Resources for a 10 MGD WWTF.Resource 
+
+2009 Est Price Potential Recovery Oppor., US$/Y 
+
+US$/kg 10 MGD Wastewater Treatment Facility 
+
+    Min Max 
+
+Silver $471.611 $8,849  $3,904,664  
+
+Cadmium $2.691 $5  $307  
+
+Nitrogen $0.262 $9,978  $74,835  
+
+Phosphorus $0.142 $1,313  $9,850  
+
+1 U.S. Geological Survey, Mineral Commodity Summaries, January 2010 
+2 Cost projections shown in Appendix A  
+
+
+
+4 Nutrient Recovery: State of the Knowledge - September 2011 
+
+ 
+
+ 
+
+ 
+
+While resource recovery is thought of as an emerging field, several key areas have been 
+and are being further developed in the industry.Beneficial reuse of solids has long been a focus 
+and desire in the field of wastewater treatment.Several WERF studies have focused on biosolids.Properly treated, biosolids represents a resource rich soil conditioner that contains essential 
+nutrients (nitrogen and phosphorus, trace minerals, carbon, etc.)and provides significant soil 
+water holding capacity enhancement.These qualities can significantly improve crop growth and 
+yields, reduce the use of chemical fertilizers, and allow communities to balance needs for 
+sanitation and public health protection with environmentally sound and sustainable methods of 
+residuals management (WEF Q&A Factsheet "Land Application and Composting of Biosolids", 
+May 2010).Despite these efforts, significant challenges still exist, and there continues to be a 
+critical need to develop sustainable and beneficial new uses for biosolids as well as recoverable 
+components in wastewater.These materials have a significant social-economic impact in that 
+they are created by society and needed to be handled by wastewater utilities and water quality 
+professionals on behalf of society, in a cost-effective and sustainable manner that both protects 
+public health and the environment.Finding value added products and potential modifications to 
+solids processing and digestion to increase the value of biosolids would enable the continued 
+application of beneficial reuse of solids and help to expand the markets where biosolids can be 
+utilized.Increasing nutrient discharge regulations from wastewater treatment facility discharges 
+has driven a movement to looking into nutrient recovery from wastewater to meet both 
+regulatory drivers and to produce an internal revenue source.Nitrogen and phosphorus are 
+critical components of both our agricultural system and our wastewater treatment regulations, 
+and there is reason to look into recovering these nutrients from wastewater.Reactive nitrogen is 
+being added to the environment at an astounding rate.Recently, issues have been raised about 
+human activities causing alterations to the nitrogen cycle - especially the release of "new" 
+reactive forms of nitrogen from the manufacture of fertilizers (primarily by the Haber-Bosch 
+process), NOx emissions from burning of fossil fuels (automobiles, factories, power plants, etc.), 
+burning and clearing forests for food production, etc.(See Figure 6, Appendix A).Phosphorus is 
+also a concern, as readily available phosphorus is being depleted at an unsustainable rate.While 
+the exact supply of available phosphorus can be debated, current reserves are projected to be 
+depleted in this century - with some estimating that the planet will be in short supply by 2050.In 
+addition, nearly 90% of the world's estimated phosphorus reserves found in just five countries: 
+Morocco, China, South Africa, Jordan and the U.S. Reducing use of synthetic chemical 
+fertilizers through more sustainable methods, such as properly treated biosolids or struvite 
+precipitation, is an area that becomes more compelling in light of these global trends.A need for both a dissemination and evaluation protocols for existing resource recovery 
+technologies, as well as identifying the next generation of resources to be recovered and how to 
+recover them exists at this time.A focus on providing a means to evaluate current resource 
+recovery technologies, identify the next markets and value added products, and evaluating 
+technologies and processes to produce the value added commodities that the market is seeking 
+appear to be large needs in the wastewater treatment industry.A more holistic approach that 
+
+
+
+5 Nutrient Recovery: State of the Knowledge - September 2011 
+
+ 
+
+ 
+
+includes source separation, industrial waste management, liquids treatment, solids treatment, etc.will also be needed.Subscriber Drivers Supporting this Challenge 
+
+While WERF Subscribers are being pressured to control or eliminate rate increases (their 
+primary source of revenue), capital and operating costs are increasing.At the same time, more 
+and more Subscribers are facing increased Regulatory requirements, such as stricter nutrient 
+discharge limits, and there is a need for more sustainable wastewater treatment processes, such as 
+biosolids management practices.More recently, there is a desire by Subscribers to become more 
+"Green" by reducing carbon footprints, reducing consumption of resources, and recycling or 
+beneficially using more of what we currently consider wastes.Sustainable Biosolids Management Practices 
+
+The U.S. EPA estimates that more than 7 million dry tons of solids (45 million cubic 
+yards) are generated annually for use or disposal by the >16,000 municipal wastewater treatment 
+facilities nationwide (U.S.).Decreasing landfill capacity 
+(www.epa.gov/osw/nonhaz/municipal/pubs/msw07-rpt.pdf) has caused regulators to require 
+increasingly more recycling and diversion from landfills.For many communities, land 
+application represents a cost-effective and viable option compared to land-filling or incineration.However, decreasing farmland (40 million acres of cropland was lost between 1997 and 2007 per 
+USDA http://www.ers.usda.gov/statefacts/us.htm, i.e., more area than the state of Georgia) and 
+encroaching housing developments make it more and more difficult to recycle wastewater 
+residuals with increasing resistance from urban and suburban residents.Meeting Subscriber Needs 
+
+There are four primary areas where this challenge can meet Subscriber's needs by providing: 
+
+1.New Innovative Ways to Beneficially Use Biosolids 
+* To provide needed sustainable long-term and cost-effective management practices 
+* To provide cost savings 
+
+2.New Innovative Nutrient Recovery and Use Methods 
+* To provide cost savings, with (a) lower cost nutrient removal methods, (b) struvite 
+
+control, (c) reduced biosolids produced 
+* Potential Revenue Stream 
+* Provides Green attributes 
+
+3.New Innovative Metals Recovery and Use Methods 
+* Provides potential revenue stream 
+* May provide a regulatory benefits - such as cleaner biosolids and effluent 
+
+4.Innovative Methods to Recover and Use Other Useful Materials (such as thermoplastics  
+            from biophosphate polymers, or methanol and ammonia from digester gas, etc.)* Potential revenue stream 
+
+
+
+
+
+6 Nutrient Recovery: State of the Knowledge - September 2011 
+
+ 
+
+ 
+
+* Reuse/recovery of phosphorus or some other pollutant 
+* Provides Green attributes 
+
+ 
+3.0   Desired Outcomes and Objectives of a Research Program 
+
+Background 
+Wastewater contains a wide range of inorganic (nutrients, micronutrients, metals, grit, 
+
+water itself, etc.)and organic components (biopolymers, biosolids, other carbon-based 
+compounds, etc.)both before and after treatment that can potentially be beneficially recovered.Further, certain wastewater components can potentially be used to produce raw materials for 
+further processing into valuable end-products (e.g., biofuels from algal production, animal feed 
+and fermentation feedstocks from higher plant production).However, a complete list of potentially recoverable products and feedstocks does not 
+currently exist.Furthermore, the value of many of the potentially recoverable components and 
+products is, to a large extent, unknown.Currently, there is a wide range of both established and 
+emerging technologies at differing stages of development that could be applied for the recovery 
+of resources from wastewater and associated biosolids.There also appears to be some public and 
+institutional concern regarding the wisdom and safety in resource recovery from wastewater and 
+biosolids.In addition, there is a need for specific research to support public education and 
+outreach to demonstrate the value of resource recovery and its compatibility with the traditional 
+role of wastewater treatment in protecting public health and environmental quality.This type of 
+research must be done in collaboration with public health officials and not-for-profit groups that 
+are concerned about the possible risks of resource recovery from wastewater and biosolids.This research program will assess the status of wastewater industry resource recovery 
+technology developments in a systematic manner and prioritize them according to business 
+needs, current and future value of the recovered or produced material and perceived degree of 
+difficulty in bringing the technology to the marketplace within existing technical and 
+social/political constraints.A specific outcome of the program can be to identify market and 
+institutional barriers encountered by the nascent resources recovery entrepreneurs.Knowledge 
+management (codification, abstraction, dissemination) is likely to be one of significant 
+challenges for the program.Based on these considerations, research programs can be developed that will deliver 
+short, medium and long terms outcomes related to implementing a shift in the classical 
+wastewater treatment paradigm of strictly waste treatment, to one that includes  resource 
+production  and environmental and economic sustainability.In the short term, this research program will identify and assess the economic/triple 
+bottom line/long term viability of available commercial but yet not proven emerging 
+technologies and those technologies that are at demonstration scale for their application to 
+recovery and production of resources from wastewater and biosolids.In the medium term, this 
+research program will support the application and refinement of resource recovery technologies 
+that are at an advanced level of development but have not been tested in pilot plant or 
+demonstration scale.In the long term, this research program will support the examination and 
+
+
+
+7 Nutrient Recovery: State of the Knowledge - September 2011 
+
+ 
+
+ 
+
+scale-up of novel resource production and recovery technologies at early stages of development 
+such as laboratory research or small-scale pilot plants.Objectives 
+Development of Decision Matrix for Resource Recovery 
+This involves the evaluation of feasible technologies for:  
+* nutrient recovery 
+* increased biogas production 
+* decreased solids production  
+* identification, quantification, and recovery of other marketable / value-added materials 
+
+  
+This objective will also establish routes for technology take up by the wastewater industry.This 
+may involve the need to identify other industries that can "absor" the products and/or raw 
+materials generated by the wastewater industry, e.g.plastic, fertilizer, chemical, energy industry.Intensification of Anaerobic Digestion Processes to maximize biogas production and 
+minimize biosolids generation 
+Technical and economic assessment of technologies to maximize biogas production.This will 
+also include options for WWTPs to separately process primary sludges from waste activated 
+sludges.Technical and Economic Assessment of Nutrient Recovery (Commodities) Options 
+Technical and economic assessment of technologies to recover nutrients from strong supernatant 
+streams generated during intensified anaerobic digestion.Desired Outcomes from the Challenge 
+* Quantification of existing and potential new markets in terms of quantities, product types 
+
+and quality, costs, and market types and distances for a range of products (biopolymers and 
+others) and commodities (e.g.fertilizers, increased methane from intensified anaerobic 
+digestion) 
+
+* Identification of commodities that can be produced on wastewater treatment plants and those 
+that would have to be transported away for third parties to produce.* Identification of potential strategic alliances with other industries to produce commodities 
+* Identification of quality requirements of the new markets so that quality specifications for 
+
+the commodities from wastewater are acceptable.* Identification of the typical existing wastewater treatment processes and technologies that 
+
+can be "tweaked" to produce the commodities that meet market requirements (regulatory and 
+others).* Identification and cost analysis of new technologies that would be required to produce 
+commodities that meet specifications 
+
+* Design plan to establish a pilot plant demonstration facility for the production of an agreed 
+commodity.This includes the identification and engagement of a suitable industrial partner.* Identification of suitable research agency to apply for grant that can supplement WERF's 
+funds for Phase 2.8 Nutrient Recovery: State of the Knowledge - September 2011 
+
+ 
+
+ 
+
+ 
+
+4.0   State of the Knowledge 
+
+Literature Review 
+
+In the past, wastewater was considered a nuisance stream, requiring treatment before 
+being discharged to receiving bodies of water.As the scarcity and price of clean drinking water 
+continue to rise across the world, the value of wastewater, for its recoverable water content is 
+also increasing.Presently, the paradigm of wastewater is changing.Now wastewater is being 
+viewed as a resource based on recoverable components such as nutrients, carbon, and inorganics 
+in addition to water and energy.Synergies for this paradigm change exist in several aspects.New wastewater discharge 
+regulation of nutrients such as phosphate for example, is in sync with world market demand of 
+phosphate.Water reuse and recovery as well as energy recovery for WWTFs are providing 
+concentrated waste streams which make recovery of wastewater components much easier than 
+before.Technologies which focus on resource recovery are in operation and are under 
+development for some of the many components in wastewater.There are new technologies and emerging technologies that are designed to produce or 
+improve the resource value of wastewater, including better treatment technologies to produce 
+various levels of reclaimable/reusable water, technologies to recover nutrients (N, P, and S), 
+processes to produce marketable biopolymers and biodiesel during the wastewater treatment, 
+energy recovery from heat-pumps (not associated with anaerobic digestion), and metals recovery 
+from process residuals.The recovery of phosphorus from domestic wastewater has been implemented at full-
+scale installations (Ostara process, Crystallactor, Phosnix processes, to name a few).These 
+processes have the ability to remove and recover over 85% of the soluble phosphorus in the 
+water.Crystal/ pellet sizes range from 0.5 mm to 5 mm and above.The size range may be 
+important for final end use, such as, larger pellets for agricultural use and smaller for nutrient 
+enhancement of water bodies.Although some utilities in North America have installed these 
+systems, the uptake of these technologies has not been widespread, due to market, regulatory, 
+and site-specific conditions.Knowledge base and data gaps for resource (energy and materials) recovery from 
+wastewater sludges and sludge processing sidestreams are presented in Tables 2 and 3 (8.1 and 
+8.2, from WERF report OWSO3R07).Where there is a knowledge gap, a "Yes" is entered; a 
+"No" entry denoted that there is no gap in knowledge and that information is available.However, 
+it should be noted that this table may not be complete, and there may exist research and/or 
+processes that could potentially be part of the table.Additional information on some resource 
+recovery work is presented in the next section "Efforts by Others".Efforts by Others 
+
+
+
+9 Nutrient Recovery: State of the Knowledge - September 2011 
+
+ 
+
+ 
+
+There are a number of locations where studies are being carried out with regard to 
+recovery of nutrients from domestic and agricultural wastewater.Of the nutrients of concern, 
+phosphorus appears to be the present target of researchers.Research on multiple aspects of 
+nutrient recovery are being carried out in Australia (James Cook University), Canada (University 
+of British Columbia, Ostara Nutrients), Germany (Universitaet Stuttgart), Japan (Kurita and 
+Unitika Process), The Netherlands (Wageningen University), South Africa (University of Cape 
+Town) Switzerland (EAWAG), United States (North Carolina State University, University of 
+Pittsburgh, University of Florida) to name a few.There are numerous other universities and 
+research centers involved on a smaller scale.Some of the research topics include, but not limited 
+to, increase in removal and recovery of nutrients at all treatment scale levels, characterization 
+and modeling of precipitation processes and its use in the development of process automation, 
+and determination of parameters that affect the process.For example, in the Netherlands: SaNiPhos (struvite and ammoniumsulfate production 
+from urine) was developed by GMB (http://www.saniphos.nl/), Waternet showed struvite 
+production combined with sludge digestion resulted in savings in sludge handling (this saved 
+money even without taking into account the value of the struvite); and "Nutrient Platform" to be 
+launched to make recovery of struvite and other products possible in a country (NL) with a 
+surplus of nutrients (e.g.manure) versus countries that have a deficiency of nutrients.In recent years, the focus has included recovery of nutrients from source-separated urine 
+as well as dairy wastewater.Many pilot projects on new sanitation methods (e.g., source 
+separated urine) have been completed in Europe with full scale application constructed for black 
+and grey water treatment in Sneek, the Netherlands.The latter source (dairy and other animal 
+wastewater) is of immense value as the quantity of nutrients per mass of waste is many times that 
+of domestic wastewater.However, research is still in an embryonic stage due to the requirement 
+of pre-treatment of the waste prior to recovery.There are opportunities to collaborate with the 
+agricultural sector, although significantly greater efforts to communicate between the two sectors 
+are needed.There is growing interest (and facilities being built) to produce "products" derived from 
+sewage or sewage sludge.They include agricultural crops grown with effluent applied to the land 
+as a part of "land treatment systems", such as forage crops and small grain crops being grown on 
+sites receiving secondary effluent as a part of systems designed to provide advanced treatment.Highly treated effluents are "reused" as a water supply to irrigate various crop types, including 
+vegetables and greens consumed raw.There are also aquatic plants, such as algae and duckweed, 
+that grow naturally as a part of pond and lagoon treatment systems, and in some cases systems 
+have been developed to use effluent as a water supply and nutrient source to grow algae and/or 
+duckweed as a crop that is harvested and used for a variety of purposes, including biofuels, a 
+source of protein for animal feeds, etc.For example, in the U.S., there are thousands of wastewater treatment ponds and lagoons 
+that are functionally high rate algae producers.In some cases, these wastewater treatment ponds 
+and lagoons develop a mat of duckweed on the surface.Lemna systems, initiated some years 
+ago, evolved from duckweed growing naturally on many wastewater stabilization lagoons into 
+systems designed to maximize production (and harvesting) of duckweed as a part of systems to 
+
+
+
+
+10 Nutrient Recovery: State of the Knowledge - September 2011 
+
+ 
+
+ 
+
+polish nutrients from pretreated wastewater effluents.In more recent years systems have been 
+designed to grow specific types of algae which produce oil to be converted to biodiesel fuel.Lemna Technologies, for example, provides a range of pond-based biological treatment systems 
+for municipal and industrial effluents that involve algae and duckweed production, covers, 
+harvesting equipment, conversion to biogas, etc.Duckweed-based wastewater treatment systems 
+overseas (e.g., in Australia, http://www.dcm.nt.gov.au/__data/assets/file/0015/43143/14e.pdf) 
+incorporate additional beneficial use options as animal feed, fish production, etc.There is 
+growing interest in culturing and harvesting algae for use in biofuels production and to combine 
+these efforts with wastewater treatment systems, including the treatment of on-farm animal 
+wastes.Processed sewage sludge materials (e.g., composted biosolids, alkaline stabilized 
+biosolids, and heat dried pellets) are used for such purposes as a land applied soil amendment 
+product and/or as a source of fertilizer, and in recent years as a possible supplemental fuel 
+source.There are examples of products derived from sewage sludge, including bricks produced 
+using biosolids as an additive to the main clay mix that is "fired" to produce the bricks; the 
+conversion of sewage sludge to crude oil, char, and other petroleum products.More recently, 
+biodiesel produced at wastewater treatment facilities and biogas from anaerobic digesters have 
+been used as fuel for fleet vehicles.Recovery of a wide range of metals and other inorganics 
+(phosphorus, iron, aluminum, zinc, magnesium, nickel and manganese) as well as precious 
+metals such as palladium, gold and silver; and even the extraction of various organics and 
+proteins have also been reported.There are at least three categories of products that are being derived from sewage sludge 
+as a part of a series of full scale projects that are currently being built or are in operation, 
+including: 
+
+* Recovery of struvite (magnesium ammonium phosphate) from digester supernatant (e.g., 
+Ostara's Pearl Nutrient Recovery Process).See discussion on previous page.* Production of biosolids-enhanced granular inorganic fertilizers (e.g., Unity Envirotech's 
+fertilizer granulation process and VitAG's ammonium mix process).* Production of synfuel and/or char from the pyrolysis of sewage sludge.There are several biosolids-enhanced granular inorganic fertilizers processes.One of 
+
+these employs a technology developed by TVA that has been used by the fertilizer industry for 
+35 years.It involves pumping liquefied conditioned residuals, anhydrous ammonia and 
+concentrated acid into a drum granulator, operates at a temperature of 132degC (270degF) under 
+significant pressure, at a pH between 1 and 2.Proteins and other organic macromolecules 
+hydrolyze into amino acids.The organics bind with the inorganic salts to form complexes and 
+create very hard, durable fertilizer granules with less than 2% moisture.NSF International 
+recently established a NSF Protocol P353 focused on the Unity Envirotech product that provides 
+for a third party verification that such products are "sterilized" and meet the Part 503 Class A 
+pathogen reduction requirements and metal limits.There are also a number of projects either in operation or under construction that involve 
+pyrolysis/gasification of sewage sludge and the production of synfuel and/or char that can be 
+
+
+
+
+11 Nutrient Recovery: State of the Knowledge - September 2011 
+
+ 
+
+ 
+
+used as an energy source.A recent biosolids gasification technology review by MWH suggests 
+that pyrolysis occurs at about 400-700degC resulting in the production of a carbon char while 
+gasification occurs at about 850-1,200degC resulting in the production of synthesis gas, both of 
+which can be used as a fuel source.In May 2009, the South Sanford Water Resources Center in 
+Sanford, FL, completed installation of an integrated biosolids gasification system to produce a 
+synfuel to replace the use of natural gas as a source of renewable heat energy to dry biosolids to 
+Class A standards.For the past six years, the Stamford Water Pollution Control Authority, 
+(SWPCA) in Stamford, CT, has been undertaking research, testing, and developing a project to 
+demonstrate that dried sewage sludge pellets can be used as a renewable energy source to 
+generate electrical power.This culminated in the design of a 15-MW biosolids gasification 
+facility - the power plant will supply enough electricity to operate Stamford's wastewater 
+treatment plant (approximately 1 MW) and sell the rest.The biosolids will be dried and 
+pelletized, then converted to a charcoal-like char by pyrolysis, which will be converted to 
+synthetic gas at temperatures between 875degC and 925degC (1600degF and 1700degF) that will then be 
+fed to a generator to produce power.The ash byproduct from the gasification process contains 
+the carbon dioxide and metal oxides in solid form can be reused in asphalt, concrete, and 
+possibly ceramic tile.12 Nutrient Recovery: State of the Knowledge - September 2011 
+
+ 
+
+ 
+
+Table 2.Summary of Knowledge Gaps for Energy Resource Recovery Technologies.From WERF OWSO3R07 final report Table 8-1.Process 
+
+Category 
+
+Technology Energy  
+
+Balance 
+
+Capital  & OM  
+
+Cost 
+
+ 
+
+Quantity 
+
+    
+
+LCA 
+Social  
+
+Survey 
+
+Process 
+
+Modeling 
+Optimal Pathway Type 
+
+Sludge-to-Biogas         
+
+Anaerobic digestion Bioterminator Yes Yes No Yes Yes Yes Yes 
+
+Thermal hydrolysis Cambi(r) No No No Yes Yes Yes Yes 
+
+Thermal hydrolysis BioThelys(r) Yes Yes Yes Yes Yes Yes Yes 
+
+Cell destruction MicroSludgeTM No No No Yes Yes Yes Yes 
+
+Cell destruction Ultrasonic Yes No Yes Yes Yes Yes Yes 
+
+Cell destruction Ozonation No Yes No Yes Yes Yes Yes 
+
+Cell destruction Pulse Electric Yes Yes Yes Yes Yes Yes Yes 
+
+Sludge-to-Syngas         
+
+Gasification Kopf No Yes No Yes Yes Yes Yes 
+
+Gasification EBARA Yes Yes Yes Yes Yes Yes Yes 
+
+Incineration Thermylis(r) HTFB Yes Yes Yes Yes Yes Yes Yes 
+
+Sludge-to-Oil         
+
+Pyrolysis EnerSludgeTM No No No Yes Yes Yes Yes 
+
+Pyrolysis SlurryCarbTM No No No Yes Yes Yes Yes 
+
+Hydrothermal STORS No No No Yes Yes Yes Yes 
+
+Sludge-to-Liquid         
+
+SCWO Aqua Reci(r) No No No Yes Yes Yes Yes 
+
+SCWO Aqua Citrox(r) Yes No Yes Yes Yes Yes Yes 
+
+SCWO Athos(r) No Yes No Yes Yes Yes Yes 
+
+ 
+
+ 
+
+
+
+13 Nutrient Recovery: State of the Knowledge - September 2011 
+
+ 
+
+ 
+
+Table 3.
